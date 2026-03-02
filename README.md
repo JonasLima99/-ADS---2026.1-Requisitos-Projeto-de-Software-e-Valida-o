@@ -1,18 +1,26 @@
-# Atividade: Padrões de Projeto Criacionais
+# Padrões de Projeto - ADS César School
 
-Repositório destinado à atividade da disciplina de Padrões de Projeto. O foco é a compreensão teórica dos padrões criacionais e a implementação prática de um deles em Python.
+Repositório com as atividades da disciplina de Padrões de Projeto. Contém a parte teórica e exemplos práticos desenvolvidos em Python.
 
-## Conteúdo do Repositório
-- `padroes_criacionais.ipynb`: Notebook contendo a pesquisa autoral sobre os padrões:
-  - Factory Method
-  - Abstract Factory
-  - Builder
-  - Prototype
-  - Singleton
-  - Implementação prática do padrão **Singleton** utilizando Python.
+### Atividade 1: Padrões Criacionais
 
-## Como Executar
-O projeto foi desenvolvido utilizando o Jupyter Notebook. Para visualizar e executar, basta abrir o arquivo `.ipynb` em um ambiente compatível (VS Code, Jupyter Lab ou Google Colab).
+Pesquisa e implementação sobre a criação de objetos.
 
-## Referências
-- [Refactoring Guru - Design Patterns](https://refactoring.guru/pt-br/design-patterns)
+- **Arquivo:** padroes_criacionais.ipynb
+- **Conteúdo:** Factory Method, Abstract Factory, Builder, Prototype e Singleton.
+- **Implementação:** Padrão Singleton.
+
+### Atividade 2: Padrões Estruturais
+
+Pesquisa e implementação sobre a estrutura entre classes e objetos.
+
+- **Arquivo:** padroes_proj_estruturais.ipynb
+- **Conteúdo:** Adapter, Bridge, Composite, Decorator, Facade, Flyweight e Proxy.
+- **Implementação:** Padrão Adapter (uso de Pandas para tratar dados acadêmicos).
+
+### Como rodar
+Os arquivos são Notebooks (.ipynb). É necessário ter o Python e a biblioteca `pandas` instalada para rodar os exemplos práticos.
+
+### Referências
+
+Refactoring Guru - Design Patterns
